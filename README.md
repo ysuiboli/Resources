@@ -14,7 +14,7 @@ google在ndk r17版本删除了mips相关的toolchains文件。
 
 自己下载mips64el-linux-android-4.9放到NDK目录下，具体路径：<自己放置路径>/Android/sdk/ndk-bundle/toolchains/
 
-mac默认路径：~/Library/<NDK路径，见上方具体路径>
+###### mac默认路径：~/Library/Android/sdk/ndk-bundle/toolchains/
 
 [mips64el-linux-android-4.9下载](https://github.com/ysuiboli/Resources/blob/master/mips64el-linux-android-4.9.zip)
 
